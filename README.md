@@ -1,1 +1,2 @@
-# git-test
+mkdir repos
+cd remkdir repos/
